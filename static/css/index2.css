@@ -1,0 +1,40 @@
+body{
+    background-image: url(../img/zmostrador_2.jpg);
+    }
+form{
+    width:300px;
+    padding:16px;
+    border-radius:10px;
+    margin:auto;
+    background-color: rgb(47, 202, 168);
+    text-align: center;
+    }
+.field1{
+    box-sizing: border-box;
+    
+}
+.field2{
+    box-sizing: border-box;
+    
+}
+.check{
+    box-sizing: border-box;
+    
+}
+.boton1{
+    font-weight: bold;
+    box-sizing: border-box;
+    }
+
+
+.campos{
+    box-sizing: border-box;
+    background-color: transparent;
+    padding: .2em;
+    font-size: 14px;
+    }
+
+label {
+    display: block;
+    margin: .5em 0 0 0;
+  }
